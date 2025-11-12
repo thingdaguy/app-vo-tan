@@ -9,7 +9,7 @@ This project is an adaptation of the project [RESTful API Node Server Boilerplat
 Clone the repo:
 
 ```bash
-git clone --depth 1 https://github.com/thingdaguy/app-vo-tan.git
+git clone --depth 1 https://github.com/thingdaguy/anydownload.git
 cd  app-vo-tan
 ```
 
